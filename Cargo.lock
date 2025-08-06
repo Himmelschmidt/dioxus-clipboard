@@ -677,6 +677,10 @@ version = "0.3.0"
 dependencies = [
  "copypasta",
  "dioxus",
+ "js-sys",
+ "wasm-bindgen",
+ "wasm-bindgen-futures",
+ "web-sys",
 ]
 
 [[package]]
